@@ -1,0 +1,18 @@
+{
+  "student.services@uopeople.edu": {
+    "count": 2,
+    "total_urgency": 5.0,
+    "high_risk_count": 0,
+    "first_seen": "2025-11-20T10:28:59.715896",
+    "last_seen": "2025-11-20T10:29:16.543679",
+    "avg_urgency": 2.5
+  },
+  "ambassadors@uopeople.edu": {
+    "count": 2,
+    "total_urgency": 3.0,
+    "high_risk_count": 0,
+    "first_seen": "2025-11-20T10:30:20.933139",
+    "last_seen": "2025-11-20T10:31:25.306921",
+    "avg_urgency": 1.5
+  }
+}
